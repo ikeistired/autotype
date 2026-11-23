@@ -1,0 +1,10 @@
+# Your own text and run state stay out of the repo
+text.txt
+autotype_progress.txt
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
