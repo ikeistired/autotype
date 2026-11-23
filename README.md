@@ -1,3 +1,5 @@
+> **Disclaimer:** This project was made entirely with AI. All of the code, documentation and other files were written by Claude (Anthropic), based on prompts and feedback from the repository owner. It has not been professionally reviewed or tested. Use it at your own risk.
+
 # autotype
 
 Types the contents of a text file into any window, one keystroke at a time, with a human-like rhythm: varied speed, natural pauses, typos that get corrected, rewording, and going back to add missed words. The whole run fits a time you choose, and it can be paused, resumed, or split across several sessions.
@@ -90,3 +92,7 @@ All settings are at the top of `autotype.py`. Any rate set to `0` turns that fea
 - **Text lands in the wrong place:** something stole focus, or the cursor wasn't at the end of the doc. Stop it, fix the text and start again.
 - **Lists, quotes or words come out wrong:** turn off Google Docs' autoformatting and substitutions.
 - **Warning about characters:** those symbols may not type correctly. Replace them in `text.txt`.
+
+## Disclaimer
+
+Everything in this github repo has 
