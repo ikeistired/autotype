@@ -93,6 +93,3 @@ All settings are at the top of `autotype.py`. Any rate set to `0` turns that fea
 - **Lists, quotes or words come out wrong:** turn off Google Docs' autoformatting and substitutions.
 - **Warning about characters:** those symbols may not type correctly. Replace them in `text.txt`.
 
-## Disclaimer
-
-Everything in this github repo has 
